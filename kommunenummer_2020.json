@@ -152,8 +152,8 @@
       {
         "fra": "0137",
         "dato": "2020-01-01",
-        "gammeltNavn": "Våler (Østf.)",
-        "nyttNavn": "Våler (Østf.)",
+        "gammeltNavn": "Våler",
+        "nyttNavn": "Våler",
         "til": "3018"
       },
       {
@@ -348,8 +348,8 @@
       {
         "fra": "0616",
         "dato": "2020-01-01",
-        "gammeltNavn": "Nes (Busk.)",
-        "nyttNavn": "Nes (Busk.)",
+        "gammeltNavn": "Nes",
+        "nyttNavn": "Nes",
         "til": "3040"
       },
       {
@@ -528,8 +528,8 @@
       {
         "fra": "0426",
         "dato": "2020-01-01",
-        "gammeltNavn": "Våler (Hedm.)",
-        "nyttNavn": "Våler (Hedm.)",
+        "gammeltNavn": "Våler",
+        "nyttNavn": "Våler",
         "til": "3419"
       },
       {
@@ -605,8 +605,8 @@
       {
         "fra": "0441",
         "dato": "2020-01-01",
-        "gammeltNavn": "Os (Hedm.)",
-        "nyttNavn": "Os (Hedm.)",
+        "gammeltNavn": "Os",
+        "nyttNavn": "Os",
         "til": "3430"
       },
       {
@@ -787,192 +787,182 @@
         "dato": "2020-01-01",
         "gammeltNavn": "Horten",
         "nyttNavn": "Horten",
-        "til": "&nbsp;",
-        "til2": "3801"
+        "til": "3801"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "0715",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av nye Holmestrand og Sande",
-        "nyttNavn": "Sammenslåing av nye Holmestrand og Sande",
-        "til": "&nbsp;",
-        "til2": "3802"
+        "gammeltNavn": "Holmestrand",
+        "nyttNavn": "Holmestrand",
+        "til": "3802"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "0713",
         "dato": "2020-01-01",
-        "gammeltNavn": "- nye Holmestrand",
-        "nyttNavn": "- nye Holmestrand",
-        "til": "0715",
-        "til2": "&nbsp;"
+        "gammeltNavn": "Sande",
+        "nyttNavn": "Holmestrand",
+        "til": "3802"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "0704",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Tønsberg og Re",
-        "nyttNavn": "Sammenslåing av Tønsberg og Re",
-        "til": "&nbsp;",
-        "til2": "3803"
+        "gammeltNavn": "Tønsberg",
+        "nyttNavn": "Tønsberg",
+        "til": "3803"
+      },
+      {
+        "fra": "0716",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Re",
+        "nyttNavn": "Tønsberg",
+        "til": "3803"
       },
       {
         "fra": "0710",
         "dato": "2020-01-01",
         "gammeltNavn": "Sandefjord",
         "nyttNavn": "Sandefjord",
-        "til": "&nbsp;",
-        "til2": "3804"
+        "til": "3804"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "0712",
         "dato": "2020-01-01",
         "gammeltNavn": "Larvik",
         "nyttNavn": "Larvik",
-        "til": "0712",
-        "til2": "3805"
+        "til": "3805"
       },
       {
         "fra": "0805",
         "dato": "2020-01-01",
         "gammeltNavn": "Porsgrunn",
         "nyttNavn": "Porsgrunn",
-        "til": "&nbsp;",
-        "til2": "3806"
+        "til": "3806"
       },
       {
         "fra": "0806",
         "dato": "2020-01-01",
         "gammeltNavn": "Skien",
         "nyttNavn": "Skien",
-        "til": "&nbsp;",
-        "til2": "3807"
+        "til": "3807"
       },
       {
         "fra": "0807",
         "dato": "2020-01-01",
         "gammeltNavn": "Notodden",
         "nyttNavn": "Notodden",
-        "til": "&nbsp;",
-        "til2": "3808"
+        "til": "3808"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "0729",
         "dato": "2020-01-01",
         "gammeltNavn": "Færder",
         "nyttNavn": "Færder",
-        "til": "0729",
-        "til2": "3811"
+        "til": "3811"
       },
       {
         "fra": "0811",
         "dato": "2020-01-01",
         "gammeltNavn": "Siljan",
         "nyttNavn": "Siljan",
-        "til": "&nbsp;",
-        "til2": "3812"
+        "til": "3812"
       },
       {
         "fra": "0814",
         "dato": "2020-01-01",
         "gammeltNavn": "Bamble",
         "nyttNavn": "Bamble",
-        "til": "&nbsp;",
-        "til2": "3813"
+        "til": "3813"
       },
       {
         "fra": "0815",
         "dato": "2020-01-01",
         "gammeltNavn": "Kragerø",
         "nyttNavn": "Kragerø",
-        "til": "&nbsp;",
-        "til2": "3814"
+        "til": "3814"
       },
       {
         "fra": "0817",
         "dato": "2020-01-01",
         "gammeltNavn": "Drangedal",
         "nyttNavn": "Drangedal",
-        "til": "&nbsp;",
-        "til2": "3815"
+        "til": "3815"
       },
       {
         "fra": "0819",
         "dato": "2020-01-01",
         "gammeltNavn": "Nome",
         "nyttNavn": "Nome",
-        "til": "&nbsp;",
-        "til2": "3816"
+        "til": "3816"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "0821",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Bø (Telem.) og Sauherad",
-        "nyttNavn": "Sammenslåing av Bø (Telem.) og Sauherad",
-        "til": "&nbsp;",
-        "til2": "3817"
+        "gammeltNavn": "Bø",
+        "nyttNavn": "Midt-Telemark",
+        "til": "3817"
+      },
+      {
+        "fra": "Sauherad",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Sauherad",
+        "nyttNavn": "Midt-Telemark",
+        "til": "3817"
       },
       {
         "fra": "0826",
         "dato": "2020-01-01",
         "gammeltNavn": "Tinn",
         "nyttNavn": "Tinn",
-        "til": "&nbsp;",
-        "til2": "3818"
+        "til": "3818"
       },
       {
         "fra": "0827",
         "dato": "2020-01-01",
         "gammeltNavn": "Hjartdal",
         "nyttNavn": "Hjartdal",
-        "til": "&nbsp;",
-        "til2": "3819"
+        "til": "3819"
       },
       {
         "fra": "0828",
         "dato": "2020-01-01",
         "gammeltNavn": "Seljord",
         "nyttNavn": "Seljord",
-        "til": "&nbsp;",
-        "til2": "3820"
+        "til": "3820"
       },
       {
         "fra": "0829",
         "dato": "2020-01-01",
         "gammeltNavn": "Kviteseid",
         "nyttNavn": "Kviteseid",
-        "til": "&nbsp;",
-        "til2": "3821"
+        "til": "3821"
       },
       {
         "fra": "0830",
         "dato": "2020-01-01",
         "gammeltNavn": "Nissedal",
         "nyttNavn": "Nissedal",
-        "til": "&nbsp;",
-        "til2": "3822"
+        "til": "3822"
       },
       {
         "fra": "0831",
         "dato": "2020-01-01",
         "gammeltNavn": "Fyresdal",
         "nyttNavn": "Fyresdal",
-        "til": "&nbsp;",
-        "til2": "3823"
+        "til": "3823"
       },
       {
         "fra": "0833",
         "dato": "2020-01-01",
         "gammeltNavn": "Tokke",
         "nyttNavn": "Tokke",
-        "til": "&nbsp;",
-        "til2": "3824"
+        "til": "3824"
       },
       {
         "fra": "0834",
         "dato": "2020-01-01",
         "gammeltNavn": "Vinje",
         "nyttNavn": "Vinje",
-        "til": "&nbsp;",
-        "til2": "3825"
+        "til": "3825"
       }
     ]
   },
