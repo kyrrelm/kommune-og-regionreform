@@ -2120,10 +2120,17 @@
         "til": "5405"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "2004",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Hammerfest og Kvalsund",
-        "nyttNavn": "Sammenslåing av Hammerfest og Kvalsund",
+        "gammeltNavn": "Hammerfest",
+        "nyttNavn": "Hammerfest",
+        "til": "5406"
+      },
+      {
+        "fra": "2017",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Kvalsund",
+        "nyttNavn": "Hammerfest",
         "til": "5406"
       },
       {
@@ -2134,10 +2141,17 @@
         "til": "5411"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1852",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Skånland og Tjeldsund",
-        "nyttNavn": "Sammenslåing av Skånland og Tjeldsund",
+        "gammeltNavn": "Tjeldsund",
+        "nyttNavn": "Tjeldsund",
+        "til": "5412"
+      },
+      {
+        "fra": "1913",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Skånland",
+        "nyttNavn": "Tjeldsund",
         "til": "5412"
       },
       {
@@ -2157,8 +2171,8 @@
       {
         "fra": "1920",
         "dato": "2020-01-01",
-        "gammeltNavn": "Loabák - Lavangen",
-        "nyttNavn": "Loabák - Lavangen",
+        "gammeltNavn": "Lavangen",
+        "nyttNavn": "Lavangen",
         "til": "5415"
       },
       {
@@ -2197,10 +2211,31 @@
         "til": "5420"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1927",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Tranøy, Torsken, Berg og Lenvik",
-        "nyttNavn": "Sammenslåing av Tranøy, Torsken, Berg og Lenvik",
+        "gammeltNavn": "Tranøy",
+        "nyttNavn": "Senja",
+        "til": "5421"
+      },
+      {
+        "fra": "1928",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Torsken",
+        "nyttNavn": "Senja",
+        "til": "5421"
+      },
+      {
+        "fra": "1929",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Berg",
+        "nyttNavn": "Senja",
+        "til": "5421"
+      },
+      {
+        "fra": "1931",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Lenvik",
+        "nyttNavn": "Senja",
         "til": "5421"
       },
       {
