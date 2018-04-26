@@ -991,17 +991,45 @@
         "til": "4203"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1001",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Kristiansand, Songdalen og Søgne",
-        "nyttNavn": "Sammenslåing av Kristiansand, Songdalen og Søgne",
+        "gammeltNavn": "Kristiansand",
+        "nyttNavn": "Kristiansand",
         "til": "4204"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1017",
         "dato": "2020-01-01",
-        "gammeltNavn": "Mandal,Marnardal og Lindesnes",
-        "nyttNavn": "Mandal,Marnardal og Lindesnes",
+        "gammeltNavn": "Songdalen",
+        "nyttNavn": "Kristiansand",
+        "til": "4204"
+      },
+      {
+        "fra": "1018",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Søgne",
+        "nyttNavn": "Kristiansand",
+        "til": "4204"
+      },
+      {
+        "fra": "1002",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Mandal",
+        "nyttNavn": "Lindesnes",
+        "til": "4205"
+      },
+      {
+        "fra": "1021",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Marnardal",
+        "nyttNavn": "Lindesnes",
+        "til": "4205"
+      },
+      {
+        "fra": "1029",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Lindesnes",
+        "nyttNavn": "Lindesnes",
         "til": "4205"
       },
       {
@@ -1117,10 +1145,17 @@
         "til": "4224"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1027",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Audnedal og Lyngdal",
-        "nyttNavn": "Sammenslåing av Audnedal og Lyngdal",
+        "gammeltNavn": "Audnedal",
+        "nyttNavn": "Lyngdal",
+        "til": "4225"
+      },
+      {
+        "fra": "1032",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Lyngdal",
+        "nyttNavn": "Lyngdal",
         "til": "4225"
       },
       {
@@ -1143,11 +1178,12 @@
         "gammeltNavn": "Sirdal",
         "nyttNavn": "Sirdal",
         "til": "4228"
-      },
-      {
-        "fra": "Sammensl&#229;ing av Hordaland og Sogn og Fjordane - 46",
-        "dato": "2020-01-01"
-      },
+      }
+    ]
+  },
+  {
+    "region": "Sammensl&#229;ing av Hordaland og Sogn og Fjordane - 46",
+    "kommuner": [
       {
         "fra": "1201",
         "dato": "2020-01-01",
@@ -1156,10 +1192,17 @@
         "til": "4601"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1401",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Flora og Vågsøy",
-        "nyttNavn": "Sammenslåing av Flora og Vågsøy",
+        "gammeltNavn": "Flora",
+        "nyttNavn": "Kinn",
+        "til": "4602"
+      },
+      {
+        "fra": "1439",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Vågsøy",
+        "nyttNavn": "Kinn",
         "til": "4602"
       },
       {
@@ -1212,10 +1255,24 @@
         "til": "4617"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1227",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Jondal, Odda og Ullensvang",
-        "nyttNavn": "Sammenslåing av Jondal, Odda og Ullensvang",
+        "gammeltNavn": "Jondal",
+        "nyttNavn": "Ullensvang",
+        "til": "4618"
+      },
+      {
+        "fra": "1228",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Odda",
+        "nyttNavn": "Ullensvang",
+        "til": "4618"
+      },
+      {
+        "fra": "1230",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Ullensvang",
+        "nyttNavn": "Ullensvang",
         "til": "4618"
       },
       {
@@ -1233,10 +1290,17 @@
         "til": "4620"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1234",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Granvin og Voss",
-        "nyttNavn": "Sammenslåing av Granvin og Voss",
+        "gammeltNavn": "Granvin",
+        "nyttNavn": "Voss",
+        "til": "4621"
+      },
+      {
+        "fra": "1235",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Voss",
+        "nyttNavn": "Voss",
         "til": "4621"
       },
       {
@@ -1254,10 +1318,17 @@
         "til": "4623"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1241",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Os og Fusa",
-        "nyttNavn": "Sammenslåing av Os og Fusa",
+        "gammeltNavn": "Fusa",
+        "nyttNavn": "Bjørnafjorden",
+        "til": "4624"
+      },
+      {
+        "fra": "1243",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Os",
+        "nyttNavn": "Bjørnafjorden",
         "til": "4624"
       },
       {
@@ -1268,10 +1339,24 @@
         "til": "4625"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1245",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Sund, Fjell og Øygarden",
-        "nyttNavn": "Sammenslåing av Sund, Fjell og Øygarden",
+        "gammeltNavn": "Sund",
+        "nyttNavn": "Øygarden",
+        "til": "4626"
+      },
+      {
+        "fra": "1246",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Fjell",
+        "nyttNavn": "Øygarden",
+        "til": "4626"
+      },
+      {
+        "fra": "1259",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Øygarden",
+        "nyttNavn": "Øygarden",
         "til": "4626"
       },
       {
@@ -1303,10 +1388,24 @@
         "til": "4630"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1256",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Meland, Radøy og Lindås",
-        "nyttNavn": "Sammenslåing av Meland, Radøy og Lindås",
+        "gammeltNavn": "Meland",
+        "nyttNavn": "Alver",
+        "til": "4631"
+      },
+      {
+        "fra": "1260",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Radøy",
+        "nyttNavn": "Alver",
+        "til": "4631"
+      },
+      {
+        "fra": "1263",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Lindås",
+        "nyttNavn": "Alver",
         "til": "4631"
       },
       {
@@ -1366,10 +1465,24 @@
         "til": "4639"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1418",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Balestrand, Leikanger og Sogndal",
-        "nyttNavn": "Sammenslåing av Balestrand, Leikanger og Sogndal",
+        "gammeltNavn": "Balestrand",
+        "nyttNavn": "Sogndal",
+        "til": "4640"
+      },
+      {
+        "fra": "1419",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Leikanger",
+        "nyttNavn": "Sogndal",
+        "til": "4640"
+      },
+      {
+        "fra": "1420",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Sogndal",
+        "nyttNavn": "Sogndal",
         "til": "4640"
       },
       {
@@ -1415,10 +1528,31 @@
         "til": "4646"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1430",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Gaular, Jølster, Førde og Naustdal",
-        "nyttNavn": "Sammenslåing av Gaular, Jølster, Førde og Naustdal",
+        "gammeltNavn": "Gaular",
+        "nyttNavn": "Sunnfjord",
+        "til": "4647"
+      },
+      {
+        "fra": "1431",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Jølster",
+        "nyttNavn": "Sunnfjord",
+        "til": "4647"
+      },
+      {
+        "fra": "1432",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Førde",
+        "nyttNavn": "Sunnfjord",
+        "til": "4647"
+      },
+      {
+        "fra": "1433",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Naustdal",
+        "nyttNavn": "Sunnfjord",
         "til": "4647"
       },
       {
@@ -1429,10 +1563,17 @@
         "til": "4648"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1441",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Selje og Eid",
-        "nyttNavn": "Sammenslåing av Selje og Eid",
+        "gammeltNavn": "Selje",
+        "nyttNavn": "Stad",
+        "til": "4649"
+      },
+      {
+        "fra": "1443",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Eid",
+        "nyttNavn": "Stad",
         "til": "4649"
       },
       {
