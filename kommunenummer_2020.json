@@ -1596,308 +1596,299 @@
     "region": "Tr&#248;ndelag - 50",
     "kommuner": [
       {
-        "fra": "&nbsp;",
+        "fra": "5030",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Trondheim og Klæbu",
-        "nyttNavn": "Sammenslåing av Trondheim og Klæbu",
-        "til": "&nbsp;",
-        "til2": "5001"
+        "gammeltNavn": "Klæbu",
+        "nyttNavn": "Trondheim",
+        "til": "5001"
       },
       {
         "fra": "1601",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Trondheim",
-        "nyttNavn": "- Trondheim",
-        "til": "5001",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Trondheim",
+        "nyttNavn": "Trondheim",
+        "til": "5001"
       },
       {
         "fra": "1662",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Klæbu",
-        "nyttNavn": "- Klæbu",
-        "til": "5030",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Klæbu",
+        "nyttNavn": "Klæbu",
+        "til": "5030"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "5006",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Steinkjer og Verran",
-        "nyttNavn": "Sammenslåing av Steinkjer og Verran",
-        "til": "&nbsp;",
-        "til2": "5006"
+        "gammeltNavn": "Steinkjer",
+        "nyttNavn": "Steinkjer",
+        "til": "5006"
+      },
+      {
+        "fra": "5039",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Verran",
+        "nyttNavn": "Steinkjer",
+        "til": "5006"
       },
       {
         "fra": "1702",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Steinkjer",
-        "nyttNavn": "- Steinkjer",
-        "til": "5004",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Steinkjer",
+        "nyttNavn": "Steinkjer",
+        "til": "5004"
       },
       {
         "fra": "1724",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Verran",
-        "nyttNavn": "- Verran",
-        "til": "5039",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Verran",
+        "nyttNavn": "Verran",
+        "til": "5039"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "5005",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Namsos, Namdalseid og Fosnes",
-        "nyttNavn": "Sammenslåing av Namsos, Namdalseid og Fosnes",
-        "til": "&nbsp;",
-        "til2": "5007"
+        "gammeltNavn": "Namsos",
+        "nyttNavn": "Namsos",
+        "til": "5007"
       },
+      {
+        "fra": "5040",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Namdalseid",
+        "nyttNavn": "Namsos",
+        "til": "5007"
+      },
+      {
+        "fra": "5048",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Fosnes",
+        "nyttNavn": "Namsos",
+        "til": "5007"
+      },
+
       {
         "fra": "1703",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Namsos",
-        "nyttNavn": "- Namsos",
-        "til": "5005",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Namsos",
+        "nyttNavn": "Namsos",
+        "til": "5005"
       },
       {
         "fra": "1725",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Namdalseid",
-        "nyttNavn": "- Namdalseid",
-        "til": "5040",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Namdalseid",
+        "nyttNavn": "Namdalseid",
+        "til": "5040"
       },
       {
         "fra": "1748",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Fosnes",
-        "nyttNavn": "- Fosnes",
-        "til": "5048",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Fosnes",
+        "nyttNavn": "Fosnes",
+        "til": "5048"
       },
       {
         "fra": "1620",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Frøya",
         "nyttNavn": "Frøya",
-        "til": "5014",
-        "til2": "5014"
+        "til": "5014"
       },
       {
         "fra": "1633",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Osen",
         "nyttNavn": "Osen",
-        "til": "5020",
-        "til2": "5020"
+        "til": "5020"
       },
       {
         "fra": "1634",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Oppdal",
         "nyttNavn": "Oppdal",
-        "til": "5021",
-        "til2": "5021"
+        "til": "5021"
       },
       {
         "fra": "1635",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Rennebu",
         "nyttNavn": "Rennebu",
-        "til": "5022",
-        "til2": "5022"
+        "til": "5022"
       },
       {
         "fra": "1640",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Røros",
         "nyttNavn": "Røros",
-        "til": "5025",
-        "til2": "5025"
+        "til": "5025"
       },
       {
         "fra": "1644",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Holtålen",
         "nyttNavn": "Holtålen",
-        "til": "5026",
-        "til2": "5026"
+        "til": "5026"
       },
       {
         "fra": "1648",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Midtre Gauldal",
         "nyttNavn": "Midtre Gauldal",
-        "til": "5027",
-        "til2": "5027"
+        "til": "5027"
       },
       {
         "fra": "1653",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Melhus",
         "nyttNavn": "Melhus",
-        "til": "5028",
-        "til2": "5028"
+        "til": "5028"
       },
       {
         "fra": "1657",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Skaun",
         "nyttNavn": "Skaun",
-        "til": "5029",
-        "til2": "5029"
+        "til": "5029"
       },
       {
         "fra": "1663",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Malvik",
         "nyttNavn": "Malvik",
-        "til": "5031",
-        "til2": "5031"
+        "til": "5031"
       },
       {
         "fra": "1664",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Selbu",
         "nyttNavn": "Selbu",
-        "til": "5032",
-        "til2": "5032"
+        "til": "5032"
       },
       {
         "fra": "1665",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Tydal",
         "nyttNavn": "Tydal",
-        "til": "5033",
-        "til2": "5033"
+        "til": "5033"
       },
       {
         "fra": "1711",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Meråker",
         "nyttNavn": "Meråker",
-        "til": "5034",
-        "til2": "5034"
+        "til": "5034"
       },
       {
         "fra": "1714",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Stjørdal",
         "nyttNavn": "Stjørdal",
-        "til": "5035",
-        "til2": "5035"
+        "til": "5035"
       },
       {
         "fra": "1717",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Frosta",
         "nyttNavn": "Frosta",
-        "til": "5036",
-        "til2": "5036"
+        "til": "5036"
       },
       {
         "fra": "1719",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Levanger",
         "nyttNavn": "Levanger",
-        "til": "5037",
-        "til2": "5037"
+        "til": "5037"
       },
       {
         "fra": "1721",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Verdal",
         "nyttNavn": "Verdal",
-        "til": "5038",
-        "til2": "5038"
+        "til": "5038"
       },
       {
         "fra": "1736",
-        "dato": "2020-01-01",
-        "gammeltNavn": "Snåase - Snåsa",
-        "nyttNavn": "Snåase - Snåsa",
-        "til": "5041",
-        "til2": "5041"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Snåsa",
+        "nyttNavn": "Snåsa",
+        "til": "5041"
       },
       {
         "fra": "1738",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Lierne",
         "nyttNavn": "Lierne",
-        "til": "5042",
-        "til2": "5042"
+        "til": "5042"
       },
       {
         "fra": "1739",
-        "dato": "2020-01-01",
-        "gammeltNavn": "Raarvihke - Røyrvik",
-        "nyttNavn": "Raarvihke - Røyrvik",
-        "til": "5043",
-        "til2": "5043"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Røyrvik",
+        "nyttNavn": "Røyrvik",
+        "til": "5043"
       },
       {
         "fra": "1740",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Namsskogan",
         "nyttNavn": "Namsskogan",
-        "til": "5044",
-        "til2": "5044"
+        "til": "5044"
       },
       {
         "fra": "1742",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Grong",
         "nyttNavn": "Grong",
-        "til": "5045",
-        "til2": "5045"
+        "til": "5045"
       },
       {
         "fra": "1743",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Høylandet",
         "nyttNavn": "Høylandet",
-        "til": "5046",
-        "til2": "5046"
+        "til": "5046"
       },
       {
         "fra": "1744",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Overhalla",
         "nyttNavn": "Overhalla",
-        "til": "5047",
-        "til2": "5047"
+        "til": "5047"
       },
       {
         "fra": "1749",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Flatanger",
         "nyttNavn": "Flatanger",
-        "til": "5049",
-        "til2": "5049"
+        "til": "5049"
       },
       {
         "fra": "1755",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Leka",
         "nyttNavn": "Leka",
-        "til": "5052",
-        "til2": "5052"
+        "til": "5052"
       },
       {
         "fra": "1756",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Inderøy",
         "nyttNavn": "Inderøy",
-        "til": "5053",
-        "til2": "5053"
+        "til": "5053"
       },
       {
-        "fra": "&nbsp;",
-        "dato": "2020-01-01",
-        "gammeltNavn": "Indre Fosen",
+        "fra": "1624",
+        "dato": "2018-01-01",
+        "gammeltNavn": "Rissa",
         "nyttNavn": "Indre Fosen",
-        "til": "5054",
-        "til2": "5054"
+        "til": "5054"
+      },
+      {
+        "fra": "1718",
+        "dato": "2018-01-01",
+        "gammeltNavn": "Leksvik",
+        "nyttNavn": "Indre Fosen",
+        "til": "5054"
       },
       {
         "fra": "&nbsp;",
