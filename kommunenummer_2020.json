@@ -1891,148 +1891,193 @@
         "til": "5054"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1571",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Hemne, Halsa og deler av Snillfjord",
-        "nyttNavn": "Sammenslåing av Hemne, Halsa og deler av Snillfjord",
-        "til": "&nbsp;",
-        "til2": "5055"
+        "gammeltNavn": "Halsa",
+        "nyttNavn": "Heim",
+        "til": "5055"
+      },
+      {
+        "fra": "5011",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Hemne",
+        "nyttNavn": "Heim",
+        "til": "5055"
+      },
+      {
+        "fra": "5012",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Snillfjord",
+        "nyttNavn": "Heim",
+        "til": "5055"
       },
       {
         "fra": "1612",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Hemne",
-        "nyttNavn": "- Hemne",
-        "til": "5011",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Hemne",
+        "nyttNavn": "Hemne",
+        "til": "5011"
       },
       {
         "fra": "1613",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Snillfjord",
-        "nyttNavn": "- Snillfjord",
-        "til": "5012",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Snillfjord",
+        "nyttNavn": "Snillfjord",
+        "til": "5012"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "5013",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Hitra og deler av Snillfjord",
-        "nyttNavn": "Sammenslåing av Hitra og deler av Snillfjord",
-        "til": "&nbsp;",
-        "til2": "5056"
+        "gammeltNavn": "Hitra",
+        "nyttNavn": "Hitra",
+        "til": "5056"
+      },
+      {
+        "fra": "5012",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Snillfjord",
+        "nyttNavn": "Hitra",
+        "til": "5056"
       },
       {
         "fra": "1617",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Hitra",
-        "nyttNavn": "- Hitra",
-        "til": "5013",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Hitra",
+        "nyttNavn": "Hitra",
+        "til": "5013"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "5015",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Ørland og Bjugn",
-        "nyttNavn": "Sammenslåing av Ørland og Bjugn",
-        "til": "&nbsp;",
-        "til2": "5057"
+        "gammeltNavn": "Ørland",
+        "nyttNavn": "Ørland",
+        "til": "5057"
+      },
+      {
+        "fra": "5017",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Bjugn",
+        "nyttNavn": "Ørland",
+        "til": "5057"
       },
       {
         "fra": "1621",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Ørland",
-        "nyttNavn": "- Ørland",
-        "til": "5015",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Ørland",
+        "nyttNavn": "Ørland",
+        "til": "5015"
       },
       {
         "fra": "1627",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Bjugn",
-        "nyttNavn": "- Bjugn",
-        "til": "5017",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Bjugn",
+        "nyttNavn": "Bjugn",
+        "til": "5017"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "5018",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Åfjord og Roan",
-        "nyttNavn": "Sammenslåing av Åfjord og Roan",
-        "til": "&nbsp;",
-        "til2": "5058"
+        "gammeltNavn": "Åfjord",
+        "nyttNavn": "Bjørnør",
+        "til": "5058"
+      },
+      {
+        "fra": "5019",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Roan",
+        "nyttNavn": "Bjørnør",
+        "til": "5058"
       },
       {
         "fra": "1630",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Åfjord",
-        "nyttNavn": "- Åfjord",
-        "til": "5018",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Åfjord",
+        "nyttNavn": "Åfjord",
+        "til": "5018"
       },
       {
         "fra": "1632",
         "dato": "2020-01-01",
-        "gammeltNavn": "- Roan",
-        "nyttNavn": "- Roan",
-        "til": "5019",
-        "til2": "&nbsp;"
+        "gammeltNavn": "Roan",
+        "nyttNavn": "Roan",
+        "til": "5019"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "5012",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Orkdal, Agdenes, Meldal og deler av Snillfjord",
-        "nyttNavn": "Sammenslåing av Orkdal, Agdenes, Meldal og deler av Snillfjord",
-        "til": "&nbsp;",
-        "til2": "5059"
+        "gammeltNavn": "Snillfjord",
+        "nyttNavn": "Orkland",
+        "til": "5059"
+      },
+      {
+        "fra": "5016",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Agdenes",
+        "nyttNavn": "Orkland",
+        "til": "5059"
+      },
+      {
+        "fra": "5023",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Meldal",
+        "nyttNavn": "Orkland",
+        "til": "5059"
+      },
+      {
+        "fra": "5024",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Orkdal",
+        "nyttNavn": "Orkland",
+        "til": "5059"
       },
       {
         "fra": "1622",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Agdenes",
-        "nyttNavn": "- Agdenes",
-        "til": "5016",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Agdenes",
+        "nyttNavn": "Agdenes",
+        "til": "5016"
       },
       {
         "fra": "1636",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Meldal",
-        "nyttNavn": "- Meldal",
-        "til": "5023",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Meldal",
+        "nyttNavn": "Meldal",
+        "til": "5023"
       },
       {
         "fra": "1638",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Orkdal",
-        "nyttNavn": "- Orkdal",
-        "til": "5024",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Orkdal",
+        "nyttNavn": "Orkdal",
+        "til": "5024"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "5050",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Vikna og Nærøy",
-        "nyttNavn": "Sammenslåing av Vikna og Nærøy",
-        "til": "&nbsp;",
-        "til2": "5060"
+        "gammeltNavn": "Vikna",
+        "nyttNavn": "Ytre Namdal",
+        "til": "5060"
+      },
+      {
+        "fra": "5051",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Nærøy",
+        "nyttNavn": "Ytre Namdal",
+        "til": "5060"
       },
       {
         "fra": "1750",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Vikna",
-        "nyttNavn": "- Vikna",
-        "til": "5050",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Vikna",
+        "nyttNavn": "Vikna",
+        "til": "5050"
       },
       {
         "fra": "1751",
-        "dato": "2020-01-01",
-        "gammeltNavn": "- Nærøy",
-        "nyttNavn": "- Nærøy",
-        "til": "5051",
-        "til2": "&nbsp;"
+        "dato": "2018-01-01",
+        "gammeltNavn": "Nærøy",
+        "nyttNavn": "Nærøy",
+        "til": "5051"
       }
     ]
   },
