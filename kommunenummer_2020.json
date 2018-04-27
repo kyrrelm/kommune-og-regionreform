@@ -1,6 +1,31 @@
 [
   {
-    "region": "Sammensl&#229;ing av &#216;stfold, Akershus og Buskerud - 30",
+    "fylke": "Viken",
+    "fylkesnummer": "30",
+    "dato": "2020-01-01",
+    "gammleFylker": [
+      {
+        "fra": "01",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Østfold",
+        "nyttNavn": "Viken",
+        "til": "30"
+      },
+      {
+        "fra": "02",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Akershus",
+        "nyttNavn": "Viken",
+        "til": "30"
+      },
+      {
+        "fra": "06",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Buskerud",
+        "nyttNavn": "Viken",
+        "til": "30"
+      }
+    ],
     "kommuner": [
       {
         "fra": "0101",
@@ -439,7 +464,25 @@
     ]
   },
   {
-    "region": "Sammensl&#229;ing av Hedmark og Oppland 34",
+    "fylke": "Innlandet",
+    "fylkesnummer": "34",
+    "dato": "2020-01-01",
+    "gammleFylker": [
+      {
+        "fra": "04",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Hedemark",
+        "nyttNavn": "Innlandet",
+        "til": "34"
+      },
+      {
+        "fra": "05",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Oppland",
+        "nyttNavn": "Innlandet",
+        "til": "34"
+      }
+    ],
     "kommuner": [
       {
         "fra": "0402",
@@ -780,7 +823,25 @@
     ]
   },
   {
-    "region": "Sammensl&#229;ing av Vestfold og Telemark - 38",
+    "fylke": "Telemark og Vestfold",
+    "fylkesnummer": "38",
+    "dato": "2020-01-01",
+    "gammleFylker": [
+      {
+        "fra": "07",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Vestfold",
+        "nyttNavn": "Telemark og Vestfold",
+        "til": "38"
+      },
+      {
+        "fra": "08",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Telemark",
+        "nyttNavn": "Telemark og Vestfold",
+        "til": "38"
+      }
+    ],
     "kommuner": [
       {
         "fra": "0701",
@@ -967,7 +1028,25 @@
     ]
   },
   {
-    "region": "Sammensl&#229;ing av Aust-Agder og Vest-Agder - 42",
+    "fylke": "Agder",
+    "fylkesnummer": "42",
+    "dato": "2020-01-01",
+    "gammleFylker": [
+      {
+        "fra": "09",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Aust-Agder",
+        "nyttNavn": "Agder",
+        "til": "42"
+      },
+      {
+        "fra": "10",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Vest-Agder",
+        "nyttNavn": "Agder",
+        "til": "42"
+      }
+    ],
     "kommuner": [
       {
         "fra": "0901",
@@ -1182,7 +1261,25 @@
     ]
   },
   {
-    "region": "Sammensl&#229;ing av Hordaland og Sogn og Fjordane - 46",
+    "fylke": "Vestlandet",
+    "fylkesnummer": "46",
+    "dato": "2020-01-01",
+    "gammleFylker": [
+      {
+        "fra": "12",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Hordaland",
+        "nyttNavn": "Vestlandet",
+        "til": "46"
+      },
+      {
+        "fra": "14",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Sogn og Fjordane",
+        "nyttNavn": "Vestlandet",
+        "til": "46"
+      }
+    ],
     "kommuner": [
       {
         "fra": "1201",
@@ -2082,7 +2179,25 @@
     ]
   },
   {
-    "region": "Sammensl&#229;ing av Troms og Finnmark - 54",
+    "fylke": "Troms og Finnmark",
+    "fylkesnummer": "54",
+    "dato": "2020-01-01",
+    "gammleFylker": [
+      {
+        "fra": "19",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Troms",
+        "nyttNavn": "Troms og Finnmark",
+        "til": "54"
+      },
+      {
+        "fra": "20",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Finnmark",
+        "nyttNavn": "Troms og Finnmark",
+        "til": "54"
+      }
+    ],
     "kommuner": [
       {
         "fra": "1902",
