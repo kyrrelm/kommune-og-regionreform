@@ -3,7 +3,7 @@
     "fylke": "Viken",
     "fylkesnummer": "30",
     "dato": "2020-01-01",
-    "gammleFylker": [
+    "gamleFylker": [
       {
         "fra": "01",
         "dato": "2020-01-01",
@@ -467,7 +467,7 @@
     "fylke": "Innlandet",
     "fylkesnummer": "34",
     "dato": "2020-01-01",
-    "gammleFylker": [
+    "gamleFylker": [
       {
         "fra": "04",
         "dato": "2020-01-01",
@@ -826,7 +826,7 @@
     "fylke": "Telemark og Vestfold",
     "fylkesnummer": "38",
     "dato": "2020-01-01",
-    "gammleFylker": [
+    "gamleFylker": [
       {
         "fra": "07",
         "dato": "2020-01-01",
@@ -1031,7 +1031,7 @@
     "fylke": "Agder",
     "fylkesnummer": "42",
     "dato": "2020-01-01",
-    "gammleFylker": [
+    "gamleFylker": [
       {
         "fra": "09",
         "dato": "2020-01-01",
@@ -1264,7 +1264,7 @@
     "fylke": "Vestlandet",
     "fylkesnummer": "46",
     "dato": "2020-01-01",
-    "gammleFylker": [
+    "gamleFylker": [
       {
         "fra": "12",
         "dato": "2020-01-01",
@@ -1690,7 +1690,25 @@
     ]
   },
   {
-    "region": "Tr&#248;ndelag - 50",
+    "fylke": "Trøndelag",
+    "fylkesnummer": "50",
+    "dato": "2018-01-01",
+    "gamleFylker": [
+      {
+      "fra": "16",
+      "dato": "2018-01-01",
+      "gammeltNavn": "Sør-Trøndelag",
+      "nyttNavn": "Trøndelag",
+      "til": "50"
+      },
+      {
+        "fra": "17",
+        "dato": "2018-01-01",
+        "gammeltNavn": "Nord-Trøndelag",
+        "nyttNavn": "Trøndelag",
+        "til": "50"
+      }
+    ],
     "kommuner": [
       {
         "fra": "5030",
@@ -2182,7 +2200,7 @@
     "fylke": "Troms og Finnmark",
     "fylkesnummer": "54",
     "dato": "2020-01-01",
-    "gammleFylker": [
+    "gamleFylker": [
       {
         "fra": "19",
         "dato": "2020-01-01",
@@ -2513,7 +2531,7 @@
     "fylke": "Rogaland",
     "fylkesnummer": "11",
     "dato": "1946-01-12",
-    "gammleFylker": [],
+    "gamleFylker": [],
     "kommuner": [
       {
         "fra": "1141",
@@ -2549,7 +2567,7 @@
     "fylke": "Møre og Romsdal",
     "fylkesnummer": "15",
     "dato": "1946-01-12",
-    "gammleFylker": [],
+    "gamleFylker": [],
     "kommuner": [
       {
         "fra": "1502",
@@ -2655,7 +2673,7 @@
     "fylke": "Nordland",
     "fylkesnummer": "18",
     "dato": "1946-01-12",
-    "gammleFylker": [],
+    "gamleFylker": [],
     "kommuner": [
       {
         "fra": "1805",
