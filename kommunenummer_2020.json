@@ -2262,15 +2262,15 @@
       {
         "fra": "1939",
         "dato": "2020-01-01",
-        "gammeltNavn": "Storfjord - Omasvuotna - Omasvuono",
-        "nyttNavn": "Storfjord - Omasvuotna - Omasvuono",
+        "gammeltNavn": "Storfjord",
+        "nyttNavn": "Storfjord",
         "til": "5425"
       },
       {
         "fra": "1940",
         "dato": "2020-01-01",
-        "gammeltNavn": "Gáivuotna - Kåfjord - Kaivuono",
-        "nyttNavn": "Gáivuotna - Kåfjord - Kaivuono",
+        "gammeltNavn": "Kåfjord",
+        "nyttNavn": "Kåfjord",
         "til": "5426"
       },
       {
@@ -2297,8 +2297,8 @@
       {
         "fra": "2011",
         "dato": "2020-01-01",
-        "gammeltNavn": "Guovdageaidnu - Kautokeino",
-        "nyttNavn": "Guovdageaidnu - Kautokeino",
+        "gammeltNavn": "Kautokeino",
+        "nyttNavn": "Kautokeino",
         "til": "5430"
       },
       {
@@ -2332,15 +2332,15 @@
       {
         "fra": "2020",
         "dato": "2020-01-01",
-        "gammeltNavn": "Porsanger - Porsáŋgu - Porsanki&nbsp;",
-        "nyttNavn": "Porsanger - Porsáŋgu - Porsanki&nbsp;",
+        "gammeltNavn": "Porsanger",
+        "nyttNavn": "Porsanger",
         "til": "5436"
       },
       {
         "fra": "2021",
         "dato": "2020-01-01",
-        "gammeltNavn": "Kárášjohka - Karasjok",
-        "nyttNavn": "Kárášjohka - Karasjok",
+        "gammeltNavn": "Karasjok",
+        "nyttNavn": "Karasjok",
         "til": "5437"
       },
       {
@@ -2367,15 +2367,15 @@
       {
         "fra": "2025",
         "dato": "2020-01-01",
-        "gammeltNavn": "Deatnu - Tana",
-        "nyttNavn": "Deatnu - Tana",
+        "gammeltNavn": "Tana",
+        "nyttNavn": "Tana",
         "til": "5441"
       },
       {
         "fra": "2027",
         "dato": "2020-01-01",
-        "gammeltNavn": "Unjárga - Nesseby",
-        "nyttNavn": "Unjárga - Nesseby",
+        "gammeltNavn": "Nesseby",
+        "nyttNavn": "Nesseby",
         "til": "5442"
       },
       {
@@ -2398,66 +2398,164 @@
     "region": "Rogaland, M&#248;re og Romsdal og Nordland",
     "kommuner": [
       {
-        "fra": "&nbsp;",
+        "fra": "1141",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Stavanger,Finnøy og Rennesøy",
-        "nyttNavn": "Sammenslåing av Stavanger,Finnøy og Rennesøy",
+        "gammeltNavn": "Finnøy",
+        "nyttNavn": "Stavanger",
         "til": "1103"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1142",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Sandnes og Forsand",
-        "nyttNavn": "Sammenslåing av Sandnes og Forsand",
+        "gammeltNavn": "Rennesøy",
+        "nyttNavn": "Stavanger",
+        "til": "1103"
+      },
+      {
+        "fra": "1102",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Sandnes",
+        "nyttNavn": "Sandnes",
         "til": "1108"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1129",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Molde, Nesset og Midsund",
-        "nyttNavn": "Sammenslåing av Molde, Nesset og Midsund",
+        "gammeltNavn": "Forsand",
+        "nyttNavn": "Sandnes",
+        "til": "1108"
+      },
+      {
+        "fra": "1502",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Molde",
+        "nyttNavn": "Molde",
         "til": "1506"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1543",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Ålesund, Ørskog, Skodje, Haram og Sandøy",
-        "nyttNavn": "Sammenslåing av Ålesund, Ørskog, Skodje, Haram og Sandøy",
+        "gammeltNavn": "Nesset",
+        "nyttNavn": "Molde",
+        "til": "1506"
+      },
+      {
+        "fra": "1545",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Midsund",
+        "nyttNavn": "Molde",
+        "til": "1506"
+      },
+      {
+        "fra": "1504",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Ålesund",
+        "nyttNavn": "Ålesund",
         "til": "1507"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1523",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Volda og Hornindal",
-        "nyttNavn": "Sammenslåing av Volda og Hornindal",
+        "gammeltNavn": "Ørskog",
+        "nyttNavn": "Ålesund",
+        "til": "1507"
+      },
+      {
+        "fra": "1529",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Skodje",
+        "nyttNavn": "Ålesund",
+        "til": "1507"
+      },
+      {
+        "fra": "1534",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Haram",
+        "nyttNavn": "Ålesund",
+        "til": "1507"
+      },
+      {
+        "fra": "1546",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Sandøy",
+        "nyttNavn": "Ålesund",
+        "til": "1507"
+      },
+      {
+        "fra": "1519",
+      "dato": "2020-01-01",
+      "gammeltNavn": "Volda",
+      "nyttNavn": "Volda",
+      "til": "1577"
+      },
+      {
+        "fra": "1444",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Hornindal",
+        "nyttNavn": "Volda",
         "til": "1577"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1524",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Norddal og Stordal",
-        "nyttNavn": "Sammenslåing av Norddal og Stordal",
+        "gammeltNavn": "Norddal",
+        "nyttNavn": "Fjord",
         "til": "1578"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1526",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Fræna og Eide",
-        "nyttNavn": "Sammenslåing av Fræna og Eide",
+        "gammeltNavn": "Stordal",
+        "nyttNavn": "Fjord",
+        "til": "1578"
+      },
+      {
+        "fra": "1548",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Fræna",
+        "nyttNavn": "Hustadvika",
         "til": "1579"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1551",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Narvik, Ballangen og deler av Tysfjord",
-        "nyttNavn": "Sammenslåing av Narvik, Ballangen og deler av Tysfjord",
+        "gammeltNavn": "Eide",
+        "nyttNavn": "Hustadvika",
+        "til": "1579"
+      },
+      {
+        "fra": "1805",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Narvik",
+        "nyttNavn": "Narvik",
         "til": "1806"
       },
       {
-        "fra": "&nbsp;",
+        "fra": "1850",
         "dato": "2020-01-01",
-        "gammeltNavn": "Sammenslåing av Hamarøy - Hábmer og Divtasvuodna - Tysfjord",
-        "nyttNavn": "Sammenslåing av Hamarøy - Hábmer og Divtasvuodna - Tysfjord",
+        "gammeltNavn": "Tysfjord",
+        "nyttNavn": "Narvik",
+        "til": "1806"
+      },
+      {
+        "fra": "1854",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Ballangen",
+        "nyttNavn": "Narvik",
+        "til": "1806"
+      },
+      {
+        "fra": "1849",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Hamarøy",
+        "nyttNavn": "Hamarøy",
+        "til": "1875"
+      },
+      {
+        "fra": "1850",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Tysfjord",
+        "nyttNavn": "Hamarøy",
         "til": "1875"
       }
     ]
