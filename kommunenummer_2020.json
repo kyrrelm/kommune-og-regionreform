@@ -2510,7 +2510,10 @@
     ]
   },
   {
-    "region": "Rogaland, M&#248;re og Romsdal og Nordland",
+    "fylke": "Rogaland",
+    "fylkesnummer": "11",
+    "dato": "1946-01-12",
+    "gammleFylker": [],
     "kommuner": [
       {
         "fra": "1141",
@@ -2539,7 +2542,15 @@
         "gammeltNavn": "Forsand",
         "nyttNavn": "Sandnes",
         "til": "1108"
-      },
+      }
+    ]
+  },
+  {
+    "fylke": "Møre og Romsdal",
+    "fylkesnummer": "15",
+    "dato": "1946-01-12",
+    "gammleFylker": [],
+    "kommuner": [
       {
         "fra": "1502",
         "dato": "2020-01-01",
@@ -2598,10 +2609,10 @@
       },
       {
         "fra": "1519",
-      "dato": "2020-01-01",
-      "gammeltNavn": "Volda",
-      "nyttNavn": "Volda",
-      "til": "1577"
+        "dato": "2020-01-01",
+        "gammeltNavn": "Volda",
+        "nyttNavn": "Volda",
+        "til": "1577"
       },
       {
         "fra": "1444",
@@ -2637,7 +2648,15 @@
         "gammeltNavn": "Eide",
         "nyttNavn": "Hustadvika",
         "til": "1579"
-      },
+      }
+    ]
+  },
+  {
+    "fylke": "Nordland",
+    "fylkesnummer": "18",
+    "dato": "1946-01-12",
+    "gammleFylker": [],
+    "kommuner": [
       {
         "fra": "1805",
         "dato": "2020-01-01",
