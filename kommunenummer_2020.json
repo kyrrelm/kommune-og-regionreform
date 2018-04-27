@@ -851,6 +851,20 @@
         "til": "3801"
       },
       {
+        "fra": "0702",
+        "dato": "2018-01-01",
+        "gammeltNavn": "Holmestrand",
+        "nyttNavn": "Holmestrand",
+        "til": "0715"
+      },
+      {
+        "fra": "0714",
+        "dato": "2018-01-01",
+        "gammeltNavn": "Hof",
+        "nyttNavn": "Holmestrand",
+        "til": "0715"
+      },
+      {
         "fra": "0715",
         "dato": "2020-01-01",
         "gammeltNavn": "Holmestrand",
@@ -879,11 +893,46 @@
         "til": "3803"
       },
       {
+        "fra": "0706",
+        "dato": "2017-01-01",
+        "gammeltNavn": "Sandefjord",
+        "nyttNavn": "Sandefjord",
+        "til": "0710"
+      },
+      {
+        "fra": "0719",
+        "dato": "2017-01-01",
+        "gammeltNavn": "Andebu",
+        "nyttNavn": "Sandefjord",
+        "til": "0710"
+      },
+      {
+        "fra": "0720",
+        "dato": "2017-01-01",
+        "gammeltNavn": "Stokke",
+        "nyttNavn": "Sandefjord",
+        "til": "0710"
+      },
+      {
         "fra": "0710",
         "dato": "2020-01-01",
         "gammeltNavn": "Sandefjord",
         "nyttNavn": "Sandefjord",
         "til": "3804"
+      },
+      {
+        "fra": "0709",
+        "dato": "2018-01-01",
+        "gammeltNavn": "Larvik",
+        "nyttNavn": "Larvik",
+        "til": "0712"
+      },
+      {
+        "fra": "0728",
+        "dato": "2018-01-01",
+        "gammeltNavn": "Lardal",
+        "nyttNavn": "Larvik",
+        "til": "0712"
       },
       {
         "fra": "0712",
@@ -912,6 +961,20 @@
         "gammeltNavn": "Notodden",
         "nyttNavn": "Notodden",
         "til": "3808"
+      },
+      {
+        "fra": "0722",
+        "dato": "2018-01-01",
+        "gammeltNavn": "Nøtterøy",
+        "nyttNavn": "Færder",
+        "til": "0729"
+      },
+      {
+        "fra": "0723",
+        "dato": "2018-01-01",
+        "gammeltNavn": "Tjøme",
+        "nyttNavn": "Færder",
+        "til": "0729"
       },
       {
         "fra": "0729",
@@ -1732,7 +1795,7 @@
         "til": "5030"
       },
       {
-        "fra": "5006",
+        "fra": "5004",
         "dato": "2020-01-01",
         "gammeltNavn": "Steinkjer",
         "nyttNavn": "Steinkjer",
