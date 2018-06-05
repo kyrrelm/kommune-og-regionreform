@@ -37,7 +37,7 @@ De fleste sammenslåingene trer i kraft 1.1.2020, men du vil også finne sammens
 En del kommuner bytter også kommunenummer flere ganger i perioden 2017-2020. et eksempel på dette er Holmestrand:
 ```
 1.1.2018: Holestrand 0702 --> Holmestrand 0715
-1.1.2018: Holestrand 0702 --> Holmestrand 3802
+1.1.2020: Holestrand 0715 --> Holmestrand 3802
 ```
 Trondheim har spesielt mange slike tilfeller som et resultat av at Nord og Sør-Trøndelag slo seg sammen til Trøndelag i 1.1.2018.
 
