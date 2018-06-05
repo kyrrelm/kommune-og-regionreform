@@ -50,7 +50,7 @@ I all hovedsak har kommuner fått nytt komunenummer som følge av nye fylkesnumm
 1.1.2020: Snillfjord 5012 --> Hitra 5056
 1.1.2020: Snillfjord 5012 --> Orkland 5059
 ```
-#### Tysfjor:
+#### Tysfjord:
 ```
 1.1.2020: Tysfjord 1850 --> Narvik 1806
 1.1.2020: Tysfjord 1850 --> Hamarøy 1875
@@ -58,11 +58,11 @@ I all hovedsak har kommuner fått nytt komunenummer som følge av nye fylkesnumm
 
 ## Hvordan har datasettet blitt generert
 
-Dataen er i all hovedsak generert ved å programatisk omforme regjeringens tabell over nye kommune- og fylkesnummer fra 2020, som man finner her:
+Dataen er i all hovedsak generert ved å programmatisk omforme regjeringens tabell over nye kommune- og fylkesnummer fra 2020, som man finner her:
 
 https://www.regjeringen.no/no/aktuelt/nye-kommune--og-fylkesnummer-fra-2020/id2576659/?utm_source=www.regjeringen.no&utm_medium=rss&utm_campaign=Nye%20kommune-%20og%20fylkesnummer%20fra%202020
 
-I tillegg er det gjort en del manuell masering dataen for å få et homogent datasett, og for å få med sammenslåingersom skjedde i 2017.
+I tillegg er det gjort en del manuell masering av dataene for å få et homogent datasett, og for å få med sammenslåinger som skjedde i 2017.
 
 ## Andre kilder som har blitt benyttet
 
@@ -74,7 +74,7 @@ https://no.wikipedia.org/wiki/Fylkesnummer
 
 ## Feil i datasettet?
 
-Dataen er i all hovedsak programatisk generert. Det er likevel gjort en del manuelt arbeid, så det er mulig det er feil i datasettet som jeg ikke har oppdaget. Hvis du finner en feil, vær så snill og opprett et `issue` på det, så skal jeg fikse det fortløpende. 
+Dataen er i all hovedsak programmatisk generert. Det er likevel gjort en del manuelt arbeid, så det er mulig det er feil i datasettet som jeg ikke har oppdaget. Hvis du finner en feil, vær så snill og opprett et `issue` på det, så skal jeg fikse det fortløpende. 
 
 
  
