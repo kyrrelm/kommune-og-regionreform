@@ -1,5 +1,24 @@
 # Kommune-og-regionreform 2017-2020
 
+Kloning av Kyrre Moe's [utmerkede datasett](https://github.com/kyrrelm/kommune-og-regionreform). Formålet med min kloning: 
+
+1. Feilretting (f.eks tastefeil i "fra"-elementet for Sauherad). Selvsagt med pull request til orginaldataene
+1. Tilby et alternativ med ALLE 422 kommuner per 2018 (dvs også dem som beholder fylkes- og kommunenummmer). 
+1. Få kontroll på de kommunene og fylkene der det er grensejustering. (Prøver å finne de nye grenselinjene fra Kartverket, men mulig jeg må hacke noe selv. Legger ut enten oppskrift eller ferdige data når jeg har laget det... ). 
+	1. Rindal som går fra Møre og Romsdal => Trøndelag (mulig nytt nummer: 5061 ?) er triviell, det er bare å kutte vekk fra M&R - polygon og føye til Tr.lag-polygon. 
+
+## Work in progress, usikker på sluttformat
+
+Jeg løser et konkret behov for å "oversette" dagens fylke- og kommunestruktur til slik den blir etter 2020. P.t. litt usikker på 
+hvordan jeg løser et par av spissfindighetene med grensejusteringer, og dermed også
+hvordan mitt datasett til dette formålet blir seende ut. Muligens avviker dette på interessante
+måter fra Kyrres opprinnelige data. 
+
+
+-------
+# Kyrres orginale readme nedenfor 
+
+
 ### Savner du en oversiktlig json-struktur med endringer i fylkesnummer/kommunenummer som følge av kommune-og-regionreformen? Det gjorde jeg, derfor har jeg laget det! Jeg har laget et json-dokument med en mapping mellom gamle og nye fylkes og kommunenummer, samt eventuellle navneendringer.
 
 

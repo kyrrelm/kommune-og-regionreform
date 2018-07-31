@@ -2256,6 +2256,13 @@
         "gammeltNavn": "Nærøy",
         "nyttNavn": "Nærøy",
         "til": "5051"
+      }, 
+      {
+        "fra": "1567",
+        "dato": "2019-01-01",
+        "gammeltNavn": "Rindal",
+        "nyttNavn": "Rindal",
+        "til": "5061"
       }
     ]
   },
