@@ -1,5 +1,11 @@
 # Kommune-og-regionreform 2017-2020
 
+Kloning av Kyrre Moe's [utmerkede datasett](https://github.com/kyrrelm/kommune-og-regionreform). Formålet med min kloning: 
+
+1. Feilretting (f.eks tastefeil i "fra"-elementet for Sauherad). Selvsagt med pull request til orginaldataene
+1. Tilby et alternativ med ALLE 422 kommuner per 2018 (dvs også dem som beholder fylkes- og kommunenummmer). 
+1. Få kontroll på de kommunene der det er grensejustering. (Prøver å finne de nye grenselinjene fra Kartverket, men mulig jeg må hacke noe selv. Legger ut enten oppskrift eller ferdige data når jeg har laget det... )
+
 ### Savner du en oversiktlig json-struktur med endringer i fylkesnummer/kommunenummer som følge av kommune-og-regionreformen? Det gjorde jeg, derfor har jeg laget det! Jeg har laget et json-dokument med en mapping mellom gamle og nye fylkes og kommunenummer, samt eventuellle navneendringer.
 
 
