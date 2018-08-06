@@ -24,7 +24,18 @@ Jeg bruker disse delelinjene til å dele kommuneflaten for Tysfjord i 2, og Snil
   
 Merk at disse delelinjene er høyst **uoffisielle data**. De tjener mine formål, jeg skal kun demonstrere et konsept og har ikke særlig høye krav til nøyaktighet. For produksjonsformål bør man få tak i offisielle data, for eksempel ved å spørre relevante fylkesmenn. 
   
-Formatet er Geopackage, i kartprojeksjon UTM sone 33 (EPSG:25833). 
+Formatet er Geopackage, i kartprojeksjon UTM sone 33 (EPSG:25833), i ´geodata/deltekommuner.gpkg´. 
+
+#### Mindre grensejusteringer som IKKE tas hensyn til. 
+
+I kartverkets [oversikt for de enkelte fylkene](https://www.kartverket.no/kommunereform/status-i-fylkene/) antydes flere mindre grensejusteringer, f.eks en grunnkrets eller eiendom som overføres fra en kommmune til en annen, slik som i [Trøndelag](https://www.kartverket.no/Om-Kartverket/kartverket-trondelag/kommunereformen-i-trondelag/). Disse har jeg ikke tatt hensyn 
+til, men venter heller på offisielle data. 
+
+## Ferdig oppdelte kommuner (uoffisielle data)
+
+Jeg har brukt delelinjene over til å dele opp kommunepolygonene for Snillfjord og Tysfjord. Resultatet ligger i ´geodata/deltekommuner.gpkg´, pluss som geojson. 
+
+Minner igjen om at dette er **høyst uoffisielle data**, tilrettelagt for en ad-hoc demo med ikke spesielt høye krav til nøyaktighet. 
 
 -------
 # Kyrres orginale readme nedenfor 
