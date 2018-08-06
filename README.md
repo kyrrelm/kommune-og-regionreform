@@ -33,7 +33,7 @@ til, men venter heller på offisielle data.
 
 ## Ferdig oppdelte kommuner (uoffisielle data)
 
-Jeg har brukt delelinjene over til å dele opp kommunepolygonene for Snillfjord og Tysfjord. Resultatet ligger i ´geodata/deltekommuner.gpkg´, pluss som geojson. 
+Jeg har brukt delelinjene over til å dele opp kommunepolygonene for Snillfjord og Tysfjord. Resultatet ligger i `geodata/deltekommuner.gpkg` (UTM-koordinater, EPSG:25833) og `geodata\deltekommuner.geojson` (lengde/breddegrad). 
 
 Minner igjen om at dette er **høyst uoffisielle data**, tilrettelagt for en ad-hoc demo med ikke spesielt høye krav til nøyaktighet. 
 
