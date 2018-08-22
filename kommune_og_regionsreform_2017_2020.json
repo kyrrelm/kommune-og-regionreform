@@ -119,7 +119,7 @@
         "til": "3013"
       },
       {
-        "fra": "0122 ",
+        "fra": "0122",
         "dato": "2020-01-01",
         "gammeltNavn": "Trøgstad",
         "nyttNavn": "Indre Østfold",
@@ -252,7 +252,7 @@
         "til": "3025"
       },
       {
-        "fra": "0222",
+        "fra": "0221",
         "dato": "2020-01-01",
         "gammeltNavn": "Aurskog-Høland",
         "nyttNavn": "Aurskog-Høland",
@@ -1026,7 +1026,7 @@
         "til": "3817"
       },
       {
-        "fra": "Sauherad",
+        "fra": "0822",
         "dato": "2020-01-01",
         "gammeltNavn": "Sauherad",
         "nyttNavn": "Midt-Telemark",
@@ -1429,7 +1429,7 @@
         "til": "4618"
       },
       {
-        "fra": "1230",
+        "fra": "1231",
         "dato": "2020-01-01",
         "gammeltNavn": "Ullensvang",
         "nyttNavn": "Ullensvang",
@@ -2175,7 +2175,7 @@
       },
       {
         "fra": "1632",
-        "dato": "2020-01-01",
+        "dato": "2018-01-01",
         "gammeltNavn": "Roan",
         "nyttNavn": "Roan",
         "til": "5019"
@@ -2256,6 +2256,13 @@
         "gammeltNavn": "Nærøy",
         "nyttNavn": "Nærøy",
         "til": "5051"
+      }, 
+      {
+        "fra": "1567",
+        "dato": "2019-01-01",
+        "gammeltNavn": "Rindal",
+        "nyttNavn": "Rindal",
+        "til": "5061"
       }
     ]
   },
