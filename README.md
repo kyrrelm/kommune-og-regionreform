@@ -1,9 +1,9 @@
 # Kommune-og-regionreform 2017-2020
 
-### Savner du en oversiktlig json-struktur med endringer i fylkesnummer/kommunenummer som følge av kommune-og-regionreformen? Det gjorde jeg, derfor har jeg laget det! Jeg har laget et json-dokument med en mapping mellom gamle og nye fylkes og kommunenummer, samt eventuellle navneendringer.
+### Savner du en oversiktlig json-struktur med endringer i fylkesnummer/kommunenummer som følge av kommune-og-regionreformen? Det gjorde jeg, derfor har jeg laget det! Jeg har laget et json-dokument med en mapping mellom gamle og nye fylkes og kommunenummer, samt eventuelle navneendringer.
 
 
-Regionreformen og vedtatte fylkeskommunesammenslåinger fører til at over 270 kommuner må/har endre(t) kommunenummer frem mot 2020. Ssb, difi og statens kartverk tilbyr alle API'er som tildels gir deg informasjon om sammenslåingen. Men etter min erfaring tilbyr de ikke  all den informasjonen man trenger. Jeg har derfor opprettet dette git-repoet, som inneholder en mapping mellom alle gamle og nye fylkesnavn og fylkesnummer og gamle og nye kommunenavn og kommunenummernummer, samt datoen de trer i kraft som følge av reformen.
+Regionreformen og vedtatte fylkeskommunesammenslåinger fører til at over 270 kommuner må/har endre(t) kommunenummer frem mot 2020. Ssb, difi og statens kartverk tilbyr alle API-er som tildels gir deg informasjon om sammenslåingen. Men etter min erfaring tilbyr de ikke  all den informasjonen man trenger. Jeg har derfor opprettet dette git-repoet, som inneholder en mapping mellom alle gamle og nye fylkesnavn og fylkesnummer og gamle og nye kommunenavn og kommunenummernummer, samt datoen de trer i kraft som følge av reformen.
 
 ## Oppbygging av data
 
