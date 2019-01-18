@@ -1324,7 +1324,7 @@
     ]
   },
   {
-    "fylke": "Vestlandet",
+    "fylke": "Vestland",
     "fylkesnummer": "46",
     "dato": "2020-01-01",
     "gamleFylker": [
@@ -1332,14 +1332,14 @@
         "fra": "12",
         "dato": "2020-01-01",
         "gammeltNavn": "Hordaland",
-        "nyttNavn": "Vestlandet",
+        "nyttNavn": "Vestland",
         "til": "46"
       },
       {
         "fra": "14",
         "dato": "2020-01-01",
         "gammeltNavn": "Sogn og Fjordane",
-        "nyttNavn": "Vestlandet",
+        "nyttNavn": "Vestland",
         "til": "46"
       }
     ],
