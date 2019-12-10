@@ -460,6 +460,20 @@
         "gammeltNavn": "Nore og Uvdal",
         "nyttNavn": "Nore og Uvdal",
         "til": "3052"
+      },
+      {
+        "fra": "0532",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Jevnaker",
+        "nyttNavn": "Jevnaker",
+        "til": "3053"
+      },
+      {
+        "fra": "0533",
+        "dato": "2020-01-01",
+        "gammeltNavn": "Lunner",
+        "nyttNavn": "Lunner",
+        "til": "3054"
       }
     ]
   },
@@ -742,20 +756,6 @@
         "gammeltNavn": "Vestre Toten",
         "nyttNavn": "Vestre Toten",
         "til": "3443"
-      },
-      {
-        "fra": "0532",
-        "dato": "2020-01-01",
-        "gammeltNavn": "Jevnaker",
-        "nyttNavn": "Jevnaker",
-        "til": "3444"
-      },
-      {
-        "fra": "0533",
-        "dato": "2020-01-01",
-        "gammeltNavn": "Lunner",
-        "nyttNavn": "Lunner",
-        "til": "3445"
       },
       {
         "fra": "0534",
