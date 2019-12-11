@@ -823,7 +823,7 @@
     ]
   },
   {
-    "fylke": "Telemark og Vestfold",
+    "fylke": "Vestfold og Telemark",
     "fylkesnummer": "38",
     "dato": "2020-01-01",
     "gamleFylker": [
@@ -831,14 +831,14 @@
         "fra": "07",
         "dato": "2020-01-01",
         "gammeltNavn": "Vestfold",
-        "nyttNavn": "Telemark og Vestfold",
+        "nyttNavn": "Vestfold og Telemark",
         "til": "38"
       },
       {
         "fra": "08",
         "dato": "2020-01-01",
         "gammeltNavn": "Telemark",
-        "nyttNavn": "Telemark og Vestfold",
+        "nyttNavn": "Vestfold og Telemark",
         "til": "38"
       }
     ],
@@ -2256,7 +2256,7 @@
         "gammeltNavn": "Nærøy",
         "nyttNavn": "Nærøy",
         "til": "5051"
-      }, 
+      },
       {
         "fra": "1567",
         "dato": "2019-01-01",
